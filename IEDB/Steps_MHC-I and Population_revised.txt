@@ -1,0 +1,10 @@
+MHC-I Processing:
+IEDB -> MHC-I Processing -> Proteasomal cleavage/TAP transport/MHC class I combined predictor
+
+Enter 5 epitopes with top combinatorial score from NetCTL -> set prediction method to SMM (Stabilized Matrix Method) -> MHC source species human -> untick "show only frequently occuring alleles" 
+-> choose all availabale alleles, set all length to 9.0 -> choose the desired output format -> submit
+
+Population Coverage:
+IEDB -> population coverage -> set number of epitopes to 1 -> enter the desired epitope ->
+choose MHC-I and MHC-II combined -> choose all available alleles from datasets, ignore the identical ones 
+-> submit
